@@ -1,0 +1,32 @@
+{
+  "name": "@nextrap/element-chat",
+  "version": "1.0.1",
+  "description": "Nextrap Chat",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "lit": "^3.2.0"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "date-fns": "^4.1.0",
+    "esbuild-loader": "^2.20.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.6",
+    "raw-loader": "^4.0.2",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
+    "style-loader": "^4.0.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.10.3",
+    "typescript": "^5.5.4",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "author": "",
+  "license": "proprietary"
+}
