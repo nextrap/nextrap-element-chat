@@ -1,6 +1,6 @@
 {
   "name": "@nextrap/element-chat",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Nextrap Chat",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
